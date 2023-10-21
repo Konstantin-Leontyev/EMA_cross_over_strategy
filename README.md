@@ -4,7 +4,7 @@
 
 <br>
 
-<span>простая система, которая основана на пересечении двух стандартных индикаторов — быстрой FMA (экспоненциальной скользящей средней или exponential moving average) и медленной SMA. <a href="https://dzen.ru/media/id/5eb5837bd86ce72cb4b19576/strategiia-peresechenie-skolziascih-srednih-5edb8542f7ccae3c3f4aaa4d">подробнее ...</a></span>
+<span>простая система, которая основана на пересечении двух EMA (экспоненциальной скользящей средней или exponential moving average) — быстрой FMA и медленной SMA. <a href="https://dzen.ru/media/id/5eb5837bd86ce72cb4b19576/strategiia-peresechenie-skolziascih-srednih-5edb8542f7ccae3c3f4aaa4d">подробнее ...</a></span>
 
 
 <h2>Особенности</h2>
